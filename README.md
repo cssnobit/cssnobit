@@ -25,7 +25,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cssnobit)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Sobre
-Busco me capacitar na área web sendo back-end developer. Sou apaixonado por tecnologia e comecei focar de verdade no começo de 2023, na qual sigo até hoje com o meu aprendizado contínuo. Meu maior hobbie é produzir instrumentais 🎸🎹.
+Busco me capacitar na área da web sendo back-end developer. Sou apaixonado por tecnologia e comecei focar de verdade no começo de 2023, na qual sigo até hoje com o meu aprendizado contínuo. Meu maior hobbie é produzir instrumentais 🎸🎹.
 
 ### Estudando
 Melhorar ainda mais minhas habilidades com Java. Aprendendo a desenvolver REST APIs com Spring framework. Estudando PostgreSQL e MySQL. Estudando HTML5 e CSS3. Tenho alguns projetos em mente que futuramente irei botar em prática. 
