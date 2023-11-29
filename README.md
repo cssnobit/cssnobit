@@ -1,11 +1,9 @@
-### Bem-vindo(a), me chamo Cauê Santiago 🖐
+### Bem-vindo(a), me chamo Cauê e eu gosto de programar em Java 🖐
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/cssnobit/)
 
 ![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=cssnobit&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cssnobit)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias do meu dia a dia 💻
 
@@ -19,7 +17,7 @@
 </div><br/>
 
 ### Sobre
-Busco me capacitar na área da web sendo back-end developer. Sou apaixonado por tecnologia e comecei focar de verdade no começo de 2023, na qual sigo até hoje com o meu aprendizado contínuo. Meu maior hobbie é produzir instrumentais 🎸🎹.
+Tenho mais afinidade com a linguagem Java, na qual posso desenvolver juntamente com o framework Spring APIs RESTful e integrar com o banco de dados MySQL, dependendo da demanda, consigo trabalhar com HTML e CSS. Adoro música 🎸🎹.
 
 ### Estudando
 Melhorar ainda mais minhas habilidades com Java. Aprendendo a desenvolver REST APIs com Spring framework. Estudando PostgreSQL e MySQL. Estudando HTML5 e CSS3. Tenho alguns projetos em mente que futuramente irei botar em prática. 
