@@ -17,7 +17,7 @@
 </div><br/>
 
 ### Sobre
-Tenho mais afinidade com a linguagem Java, na qual posso desenvolver juntamente com o framework Spring APIs RESTful e integrar com o banco de dados MySQL, dependendo da demanda, consigo trabalhar com HTML e CSS. Adoro música 🎸🎹.
+Tenho mais afinidade com a linguagem Java, na qual posso desenvolver juntamente com o framework Spring para criação de APIs RESTful e integrar com o banco de dados MySQL, dependendo da demanda, consigo trabalhar com HTML e CSS. Adoro música 🎸🎹.
 
 ### Estudando
 Melhorar ainda mais minhas habilidades com Java. Aprendendo a desenvolver REST APIs com Spring framework. Estudando PostgreSQL e MySQL. Estudando HTML5 e CSS3. Tenho alguns projetos em mente que futuramente irei botar em prática. 
