@@ -1,27 +1,58 @@
-### Bem-vindo(a), me chamo Cauê e eu gosto de programar em Java 🖐
+<h1 align="left">Cauê Santiago</h1>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/cssnobit/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://csantiago-portfolio.vercel.app/)
+###
 
-![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=cssnobit&show_icons=true&theme=dark)
+<p align="left">My name is Cauê, I'm a developer focused on back-end and I'm from Brazil.</p>
 
-## Tecnologias do meu dia a dia 💻
+###
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-    <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql"/>
-    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-    <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-</div><br/>
+<h2 align="left">About me</h2>
 
-### Sobre
-Tenho mais afinidade com a linguagem Java, na qual posso desenvolver juntamente com o framework Spring para criação de APIs RESTful e integrar com o banco de dados MySQL, dependendo da demanda, consigo trabalhar com HTML e CSS. Adoro música 🎸🎹.
+###
 
-### Estudando
-Melhorar ainda mais minhas habilidades com Java. Aprendendo a desenvolver REST APIs com Spring framework. Estudando PostgreSQL e MySQL. Estudando HTML5 e CSS3. Tenho alguns projetos em mente que futuramente irei botar em prática. 
+<p align="left">✨ A Java enthusiast<br>📚 I'm currently learning front-end concepts and working as IT Apprentice<br>🎯 Goals: learning front-end and in the future Cybersecurity</p>
+
+###
+
+<h2 align="left">My skills are</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
+
+###
+
+<h2 align="left">Social media</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/cssnobit/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cssnobit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cssnobit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
