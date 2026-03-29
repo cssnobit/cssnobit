@@ -1,6 +1,5 @@
-<h1 align="center">hey there 👋</h1>
-
 ###
+<h1 align="center">Cauê Santiago</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/cssnobit/" target="_blank">
